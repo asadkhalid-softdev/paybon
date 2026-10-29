@@ -1,0 +1,23 @@
+[
+  {
+    "partnerId": "lp717463",
+    "name": "Amazon",
+    "domains": ["amazon.de"],
+    "source": "https://www.payback.de/coupons?partnerId=lp717463",
+    "evidence": "Amazon coupon Online einlösen templates explicitly target https://www.amazon.de/b. Observed in the signed-in coupon page on 2026-10-29."
+  },
+  {
+    "partnerId": "lp54",
+    "name": "dm",
+    "domains": ["dm.de"],
+    "source": "https://www.payback.de/coupons?partnerId=lp54",
+    "evidence": "dm coupon Online einlösen links explicitly target https://dm.de/applink/. Observed in the signed-in coupon page on 2026-10-29."
+  },
+  {
+    "partnerId": "lp387",
+    "name": "Alnatura",
+    "domains": ["alnatura.de"],
+    "source": "https://www.payback.de/partner/alnatura",
+    "evidence": "PAYBACK's official Alnatura partner page links to www.alnatura.de. The signed-in coupon page identifies Alnatura as lp387 and displays six in-store coupons. Verified on 2026-10-29."
+  }
+]

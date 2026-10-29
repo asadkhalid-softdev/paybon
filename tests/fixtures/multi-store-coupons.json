@@ -1,0 +1,143 @@
+[
+  {
+    "id": "900002",
+    "partnerShortName": "lp717463",
+    "partnerName": "Amazon",
+    "partnerLogoUrl": "https://www.payback.de/res/mam/1/lp717463/nl-coupon-partner-logo/1/1/logo.png",
+    "label": "10FACH °P",
+    "description": "auf Produkte in der Kategorie Haushalt!*",
+    "validity": "Gültig bis 01.11.2026",
+    "status": "activated",
+    "buttonList": [
+      {
+        "type": "online",
+        "text": "Online einlösen",
+        "color": "red",
+        "action": "deeplink",
+        "action_url": "https://www.amazon.de/b?node=3167641&tag=wwwpaybackde-21&ascsubtag=[shopping.context]![pb_camp_ext]![pb_camp_int]![category]",
+        "action_headline": "$undefined",
+        "action_text": "$undefined"
+      }
+    ],
+    "acceptanceType": "online"
+  },
+  {
+    "id": "900003",
+    "partnerShortName": "lp604887",
+    "partnerName": "eBay",
+    "partnerLogoUrl": "https://www.payback.de/res/mam/1/lp604887/nl-coupon-partner-logo/1/1/logo.png",
+    "label": "6FACH °P",
+    "description": "auf Artikel der Kategorie Autoteile & Zubehör!*",
+    "validity": "Gültig bis 01.11.2026",
+    "status": "not_activated",
+    "buttonList": [
+      {
+        "type": "not_activated",
+        "text": "Jetzt aktivieren",
+        "color": "blue",
+        "action": "$undefined",
+        "action_url": "$undefined",
+        "action_headline": "$undefined",
+        "action_text": "$undefined"
+      }
+    ],
+    "acceptanceType": "online"
+  },
+  {
+    "id": "900000",
+    "partnerShortName": "lp54",
+    "partnerName": "dm",
+    "partnerLogoUrl": "https://www.payback.de/res/mam/1/lp54/nl-coupon-partner-logo/1/1/logo.png",
+    "label": "40FACH °P",
+    "description": "und mehr* auf SENSODYNE**!",
+    "validity": "Gültig bis 31.10.2026",
+    "status": "activated",
+    "buttonList": [
+      {
+        "type": "offline",
+        "text": "Vor Ort einlösen",
+        "color": "white",
+        "action": "helping_hand",
+        "action_url": "$undefined",
+        "action_headline": "Der Coupon ist bereits aktiviert.",
+        "action_text": "Nur noch (mobile) PAYBACK Karte an der Kasse vorzeigen und lospunkten."
+      }
+    ],
+    "acceptanceType": "offline"
+  },
+  {
+    "id": "900004",
+    "partnerShortName": "lp54",
+    "partnerName": "dm",
+    "partnerLogoUrl": "https://www.payback.de/res/mam/1/lp54/nl-coupon-partner-logo/1/1/logo.png",
+    "label": "5FACH °P",
+    "description": "auf den Einkauf vor Ort oder online!*",
+    "validity": "Gültig bis 22.11.2026",
+    "status": "not_activated",
+    "buttonList": [
+      {
+        "type": "not_activated",
+        "text": "Jetzt aktivieren",
+        "color": "blue",
+        "action": "$undefined",
+        "action_url": "$undefined",
+        "action_headline": "$undefined",
+        "action_text": "$undefined"
+      }
+    ],
+    "acceptanceType": "offline"
+  },
+  {
+    "id": "dm_900018",
+    "partnerShortName": "lp54",
+    "partnerName": "dm",
+    "partnerLogoUrl": "https://www.payback.de/res/mam/1/lp54/nl-coupon-partner-logo/1/1/logo.png",
+    "label": "3+1",
+    "description": "dmBio Kids Riegel",
+    "validity": "Gültig bis 06.11.2026",
+    "status": "activated",
+    "buttonList": [
+      {
+        "type": "offline",
+        "text": "Vor Ort einlösen",
+        "color": "white",
+        "action": "helping_hand",
+        "action_url": "$undefined",
+        "action_headline": "Der Coupon ist bereits aktiviert.",
+        "action_text": "Du kannst alle aktivierten dm-App Coupons ganz einfach mit der (mobilen) PAYBACK Karte oder mit PAYBACK PAY einlösen."
+      },
+      {
+        "type": "online",
+        "text": "Online einlösen",
+        "color": "red",
+        "action": "deeplink",
+        "action_url": "https://dm.de/applink/?appPageType=couponlist&appIsActivated=false&appRefresh=false",
+        "action_headline": "$undefined",
+        "action_text": "$undefined"
+      }
+    ],
+    "acceptanceType": "both"
+  },
+  {
+    "id": "dm_900019",
+    "partnerShortName": "lp54",
+    "partnerName": "dm",
+    "partnerLogoUrl": "https://www.payback.de/res/mam/1/lp54/nl-coupon-partner-logo/1/1/logo.png",
+    "label": "20%",
+    "description": "sanostol",
+    "validity": "Gültig bis 15.11.2026",
+    "status": "not_activated",
+    "buttonList": [
+      {
+        "type": "not_activated",
+        "text": "Jetzt aktivieren",
+        "color": "blue",
+        "action": "$undefined",
+        "action_url": "$undefined",
+        "action_headline": "$undefined",
+        "action_text": "$undefined"
+      }
+    ],
+    "acceptanceType": "both"
+  }
+]

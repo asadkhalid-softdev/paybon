@@ -1,0 +1,57 @@
+# Dependencies and generated output
+node_modules/
+/dist/
+/test-results/
+/coverage/
+/.nyc_output/
+/.cache/
+*.log
+*.tsbuildinfo
+
+# Private local research, account inventories and derived exports
+/VERIFICATION.md
+/data/coupon-partners.snapshot.json
+/data/store-mapping.json
+/data/store-mapping.csv
+
+# Credentials, browser sessions and local configuration
+.env
+.env.*
+!.env.example
+.npmrc
+.pypirc
+.netrc
+.git-credentials
+.ssh/
+.aws/
+.azure/
+credentials.json
+client_secret*.json
+service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+id_rsa*
+id_ed25519*
+*.har
+storage-state*.json
+storageState*.json
+cookies*.json
+.auth/
+playwright/.auth/
+
+# Local editor, agent and operating-system files
+.vscode/
+.idea/
+.vs/
+.codex/
+.claude/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+*~

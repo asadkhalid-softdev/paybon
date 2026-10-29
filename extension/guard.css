@@ -1,0 +1,7 @@
+/* Shared coupon fonts and sidebar layout. */
+@font-face{font-family:PayBonRoboto;src:url('roboto.woff2') format('woff2');font-style:normal;font-weight:100 900;font-display:swap}
+@font-face{font-family:PayBonDisplay;src:url('payback-light.woff') format('woff');font-style:normal;font-weight:300;font-display:swap}
+/* Narrow the page's layout container, rather than covering its checkout column. */
+html[data-paybon-sidebar-open]{width:calc(100% - min(390px,45vw))!important;min-width:0!important;box-sizing:border-box!important}
+html[data-paybon-sidebar-open] body{width:100%!important;min-width:0!important;max-width:100%!important;box-sizing:border-box!important}
+html[data-paybon-sidebar-open] #a-page{min-width:0!important;width:100%!important;box-sizing:border-box!important}

@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>PayBon settings</title><link rel="icon" href="icon-32.png"><link rel="stylesheet" href="settings.css"></head>
+<body class="settings-page">
+  <header class="app-header"><div class="app-header-inner"><a href="settings.html" class="brand"><img src="icon-48.png" alt="" width="36" height="36"><strong>PayBon</strong></a><span>Settings</span></div></header>
+  <main>
+    <h1>Your coupon preferences</h1>
+    <p class="lead">Choose how your coupon scout helps when you shop.</p>
+    <section class="preference" aria-labelledby="auto-heading">
+      <div class="preference-row"><div><h2 id="auto-heading">Auto-Aktivierung</h2><p id="auto-description">Automatically activate all inactive PAYBACK coupons for each store you visit.</p></div><label class="switch"><input id="auto-activate" type="checkbox" role="switch" aria-labelledby="auto-heading" aria-describedby="auto-description" disabled><span class="switch-track" aria-hidden="true"></span></label></div>
+      <div class="preference-details"><p>For example, visiting dm.de starts activation of all its inactive coupons, including in-store offers. Already activated coupons are skipped.</p><p>Coupons are activated one at a time. You can keep browsing while a batch finishes. Turning this off stops the batch after any request already in progress.</p><p>Auto-Aktivierung never redeems coupons, redirects you to a store, or places an order. Special coupons may still need action on PAYBACK.</p></div>
+      <p id="save-status" class="save-status" role="status">Loading your preference…</p>
+    </section>
+    <section class="activity" aria-labelledby="activity-heading"><div class="section-heading"><h2 id="activity-heading">Recent activation</h2><button type="button" id="refresh-activity" class="quiet">Refresh</button></div><p id="activity-empty" class="muted">No automatic activation yet. Turn on Auto-Aktivierung, then visit a supported store.</p><ul id="activity-list"></ul></section>
+    <footer><p>Sign in to PAYBACK in this Chrome profile to activate coupons.</p><button type="button" id="open-payback" class="text-button">Open PAYBACK</button><span id="version"></span></footer>
+  </main>
+  <script src="settings.js"></script>
+</body>
+</html>

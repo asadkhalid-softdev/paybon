@@ -1,0 +1,4989 @@
+[
+  {
+    "partnerId": "lp713076",
+    "name": "& Other Stories",
+    "domains": [
+      "stories.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731048",
+    "name": "1&1",
+    "domains": [
+      "1und1.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp538134",
+    "name": "123.live",
+    "domains": [
+      "1-2-3.tv"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp712451",
+    "name": "3PAGEN",
+    "domains": [
+      "3pagen.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766595",
+    "name": "43einhalb",
+    "domains": [
+      "43einhalb.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp620473",
+    "name": "ABOUT YOU",
+    "domains": [
+      "aboutyou.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp631008",
+    "name": "Acer",
+    "domains": [
+      "de-store.acer.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713887",
+    "name": "Achterhof",
+    "domains": [
+      "vom-achterhof.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp732175",
+    "name": "ACTEC Solar",
+    "domains": [
+      "actec-solar.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp752966",
+    "name": "ADticket",
+    "domains": [
+      "adticket.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721225",
+    "name": "AEG",
+    "domains": [
+      "aeg.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp708878",
+    "name": "afb",
+    "domains": [
+      "afbshop.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731283",
+    "name": "AG1",
+    "domains": [
+      "drinkag1.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717770",
+    "name": "Agoda",
+    "domains": [
+      "agoda.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765151",
+    "name": "ahead",
+    "domains": [
+      "ahead-nutrition.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766106",
+    "name": "Ahoi-Schiff",
+    "domains": [
+      "ahoi-schiff.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731504",
+    "name": "AKKUman",
+    "domains": [
+      "akkuman.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765893",
+    "name": "Aktion Mensch",
+    "domains": [
+      "aktion-mensch.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp516459",
+    "name": "aktivshop",
+    "domains": [
+      "aktivshop.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721676",
+    "name": "Aliva Apotheke",
+    "domains": [
+      "aliva.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp707471",
+    "name": "all4golf",
+    "domains": [
+      "all4golf.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp387",
+    "name": "Alnatura",
+    "domains": [
+      "alnatura.de"
+    ],
+    "verifiedFallback": true
+  },
+  {
+    "partnerId": "lp717463",
+    "name": "Amazon",
+    "domains": [
+      "amazon.de"
+    ],
+    "verifiedFallback": true
+  },
+  {
+    "partnerId": "lp712239",
+    "name": "AmbienteDirect",
+    "domains": [
+      "ambientedirect.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721699",
+    "name": "Ameropa",
+    "domains": [
+      "ameropa.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp627651",
+    "name": "AMORELIE",
+    "domains": [
+      "amorelie.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp627785",
+    "name": "Angelplatz",
+    "domains": [
+      "angelplatz.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721243",
+    "name": "Anker",
+    "domains": [
+      "eufy.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp753209",
+    "name": "Anker Solix",
+    "domains": [
+      "ankersolix.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766642",
+    "name": "Ankerkraut",
+    "domains": [
+      "ankerkraut.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713382",
+    "name": "Aosom",
+    "domains": [
+      "aosom.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721741",
+    "name": "apo.com",
+    "domains": [
+      "apo.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721742",
+    "name": "apodiscounter",
+    "domains": [
+      "apodiscounter.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp18",
+    "name": "Apollo-Optik",
+    "domains": [
+      "apollo.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721743",
+    "name": "apotheke.de",
+    "domains": [
+      "apotheke.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp760394",
+    "name": "ara",
+    "domains": [
+      "ara-shoes.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp736",
+    "name": "Asambeauty",
+    "domains": [
+      "asambeauty.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717774",
+    "name": "asgoodasnew",
+    "domains": [
+      "asgoodasnew.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717771",
+    "name": "ASICS",
+    "domains": [
+      "asics.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp623656",
+    "name": "ASMC",
+    "domains": [
+      "asmc.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766605",
+    "name": "ATG Entertainment",
+    "domains": [
+      "atgtickets.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718492",
+    "name": "Autodoc",
+    "domains": [
+      "autodoc.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718493",
+    "name": "Autoteiledirekt",
+    "domains": [
+      "autoteiledirekt.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp632962",
+    "name": "Avena",
+    "domains": [
+      "avena.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp732974",
+    "name": "avocadostore",
+    "domains": [
+      "avocadostore.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713400",
+    "name": "B&B HOTELS",
+    "domains": [
+      "hotel-bb.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp625955",
+    "name": "Babista",
+    "domains": [
+      "babista.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp714145",
+    "name": "BABOR",
+    "domains": [
+      "babor.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731138",
+    "name": "babyartikel_de",
+    "domains": [
+      "babyartikel.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp495130",
+    "name": "babymarkt",
+    "domains": [
+      "babymarkt.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp484611",
+    "name": "babywalz",
+    "domains": [
+      "baby-walz.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp10024026",
+    "name": "Bader",
+    "domains": [
+      "bader.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765894",
+    "name": "BADSHOP",
+    "domains": [
+      "badshop.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp483546",
+    "name": "BALDUR-Garten",
+    "domains": [
+      "baldur-garten.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp709114",
+    "name": "BÄR Schuhe",
+    "domains": [
+      "baer-schuhe.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp716032",
+    "name": "Bauknecht",
+    "domains": [
+      "bauknecht.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp562",
+    "name": "BAUR",
+    "domains": [
+      "baur.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp787",
+    "name": "Berge & Meer",
+    "domains": [
+      "berge-meer.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp608126",
+    "name": "Bergfreunde",
+    "domains": [
+      "bergfreunde.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp634827",
+    "name": "bergzeit",
+    "domains": [
+      "bergzeit.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp730308",
+    "name": "BERSHKA",
+    "domains": [
+      "bershka.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717927",
+    "name": "bett1",
+    "domains": [
+      "bett1.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp627429",
+    "name": "Bettmer",
+    "domains": [
+      "bettmer.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp533385",
+    "name": "Betty Barclay",
+    "domains": [
+      "bettybarclay.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp450",
+    "name": "BIG direkt gesund",
+    "domains": [
+      "payback.big-direkt.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721514",
+    "name": "Billiger-Mietwagen",
+    "domains": [
+      "billiger-mietwagen.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718623",
+    "name": "Blau",
+    "domains": [
+      "blau.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718706",
+    "name": "Blitzhandel24",
+    "domains": [
+      "blitzhandel24.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp702586",
+    "name": "Bloom&Wild",
+    "domains": [
+      "bloomandwild.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp516538",
+    "name": "Blue Tomato",
+    "domains": [
+      "blue-tomato.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp10024023",
+    "name": "BLUME2000",
+    "domains": [
+      "blume2000.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp706633",
+    "name": "Blutsgeschwister",
+    "domains": [
+      "blutsgeschwister.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp634221",
+    "name": "Body Attack",
+    "domains": [
+      "body-attack.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718495",
+    "name": "Bodylab",
+    "domains": [
+      "bodylab24.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp760069",
+    "name": "BON BON",
+    "domains": [
+      "bon-bon.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp615005",
+    "name": "bonprix",
+    "domains": [
+      "bonprix.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731450",
+    "name": "boohooMAN",
+    "domains": [
+      "boohooman.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp753238",
+    "name": "BOSCH Hausgeräte",
+    "domains": [
+      "bosch-home.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp767909",
+    "name": "BOSCH Home & Garden",
+    "domains": [
+      "bosch-diy.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp702823",
+    "name": "Bose",
+    "domains": [
+      "bose.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721241",
+    "name": "Braun",
+    "domains": [
+      "braun.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp492810",
+    "name": "Brigitte-Hachenburg",
+    "domains": [
+      "brigitte-hachenburg.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718496",
+    "name": "BSTN",
+    "domains": [
+      "bstn.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp475",
+    "name": "bücher.de",
+    "domains": [
+      "buecher.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp516478",
+    "name": "Buerostuhl24",
+    "domains": [
+      "buerostuhl24.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713401",
+    "name": "Bugaboo",
+    "domains": [
+      "bugaboo.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp576",
+    "name": "Burda Zeitschriftenkiosk",
+    "domains": [
+      "zeitschriften-abo.shop"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp732176",
+    "name": "BURGA",
+    "domains": [
+      "burga.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp633123",
+    "name": "büroplus",
+    "domains": [
+      "bueroplus.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp483497",
+    "name": "Büroshop24",
+    "domains": [
+      "bueroshop24.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp627382",
+    "name": "buttinette",
+    "domains": [
+      "buttinette.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp710",
+    "name": "C&A Online Shop",
+    "domains": [
+      "c-and-a.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731284",
+    "name": "Cairo",
+    "domains": [
+      "cairo.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp625577",
+    "name": "CALIDA",
+    "domains": [
+      "calida.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp623704",
+    "name": "Calumet Photo Video",
+    "domains": [
+      "calumetphoto.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp700823",
+    "name": "Calvin Klein",
+    "domains": [
+      "calvinklein.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp730309",
+    "name": "Calzedonia",
+    "domains": [
+      "calzedonia.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp704411",
+    "name": "Camper",
+    "domains": [
+      "camper.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713088",
+    "name": "CamperDays",
+    "domains": [
+      "camperdays.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp626343",
+    "name": "Canon",
+    "domains": [
+      "store.canon.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731451",
+    "name": "Carrera-Toys",
+    "domains": [
+      "carrera-toys.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp764688",
+    "name": "cfab",
+    "domains": [
+      "creamyfabrics.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp492809",
+    "name": "Charles Tyrwhitt",
+    "domains": [
+      "charlestyrwhitt.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731285",
+    "name": "Charlotte Tilbury",
+    "domains": [
+      "charlottetilbury.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp790",
+    "name": "CHECK24 Handy mit Vertrag",
+    "domains": [
+      "handyvertrag.check24.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp750",
+    "name": "CHECK24 Handytarife",
+    "domains": [
+      "handytarife.check24.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp462",
+    "name": "CHECK24 Mietwagen",
+    "domains": [
+      "payback.mietwagen.check24.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp730",
+    "name": "CHECK24 Pauschalreise",
+    "domains": [
+      "urlaub.check24.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp536404",
+    "name": "CHRIST",
+    "domains": [
+      "christ.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp585",
+    "name": "CLARK",
+    "domains": [
+      "clark.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765844",
+    "name": "Click&Boat",
+    "domains": [
+      "clickandboat.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718619",
+    "name": "Club of Wine",
+    "domains": [
+      "club-of-wine.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp716126",
+    "name": "Columbia",
+    "domains": [
+      "columbiasportswear.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp610589",
+    "name": "comma-store",
+    "domains": [
+      "comma-store.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp516470",
+    "name": "computeruniverse",
+    "domains": [
+      "computeruniverse.net"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp436",
+    "name": "congstar",
+    "domains": [
+      "congstar.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp495131",
+    "name": "connox",
+    "domains": [
+      "connox.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp750764",
+    "name": "Consorsbank",
+    "domains": [
+      "consorsbank.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp711647",
+    "name": "Coolblue",
+    "domains": [
+      "coolblue.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp712328",
+    "name": "CosmosDirekt",
+    "domains": [
+      "cosmosdirekt.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721226",
+    "name": "Costa",
+    "domains": [
+      "costakreuzfahrten.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718708",
+    "name": "Crazy Factory",
+    "domains": [
+      "crazy-factory.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp516391",
+    "name": "Crocs",
+    "domains": [
+      "crocs.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717611",
+    "name": "CUPSHE",
+    "domains": [
+      "de.cupshe.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp483551",
+    "name": "Cyberport",
+    "domains": [
+      "cyberport.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp701852",
+    "name": "DA Direkt",
+    "domains": [
+      "da-direkt.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp473355",
+    "name": "Dallmayr",
+    "domains": [
+      "dallmayr-versand.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp634814",
+    "name": "DAZN",
+    "domains": [
+      "dazn.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp408",
+    "name": "Dehner Online Shop",
+    "domains": [
+      "dehner.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721516",
+    "name": "deinSchrank",
+    "domains": [
+      "deinschrank.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp539502",
+    "name": "DELIFE",
+    "domains": [
+      "delife.eu"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp475351",
+    "name": "Dell Technologies",
+    "domains": [
+      "dell.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp706024",
+    "name": "Deuba XXL",
+    "domains": [
+      "deubaxxl.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp755012",
+    "name": "Deutsche Familienversicherung",
+    "domains": [
+      "deutsche-familienversicherung.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp761494",
+    "name": "Deutsche Glasfaser",
+    "domains": [
+      "deutsche-glasfaser.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp516383",
+    "name": "Deutsche Post/DHL",
+    "domains": [
+      "shop.deutschepost.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp720981",
+    "name": "Deutsche See",
+    "domains": [
+      "deutschesee.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp768508",
+    "name": "DFDS",
+    "domains": [
+      "dfds.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp617853",
+    "name": "Die moderne Hausfrau",
+    "domains": [
+      "moderne-hausfrau.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp760187",
+    "name": "Direct Ferries",
+    "domains": [
+      "directferries.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp702824",
+    "name": "Disneyland® Paris",
+    "domains": [
+      "disneylandparis.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp54",
+    "name": "dm",
+    "domains": [
+      "dm.de"
+    ],
+    "verifiedFallback": true
+  },
+  {
+    "partnerId": "lp721049",
+    "name": "Don Carne",
+    "domains": [
+      "doncarne.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp703660",
+    "name": "Douglas",
+    "domains": [
+      "douglas.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718597",
+    "name": "Dr. Martens",
+    "domains": [
+      "drmartens.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754732",
+    "name": "DREAME",
+    "domains": [
+      "de.dreametech.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp483521",
+    "name": "dress-for-less",
+    "domains": [
+      "dress-for-less.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721165",
+    "name": "Druckerpatronen-de",
+    "domains": [
+      "druckerpatronen.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713079",
+    "name": "Druckerzubehör",
+    "domains": [
+      "druckerzubehoer.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp628499",
+    "name": "Dyson",
+    "domains": [
+      "dyson.de",
+      "shop.dyson.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721058",
+    "name": "E WIE EINFACH",
+    "domains": [
+      "e-wie-einfach.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731406",
+    "name": "e-hoi",
+    "domains": [
+      "e-hoi.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp768855",
+    "name": "eazy",
+    "domains": [
+      "eazy.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp604887",
+    "name": "eBay",
+    "domains": [
+      "ebay.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp753210",
+    "name": "EBIKE-24",
+    "domains": [
+      "ebike-24.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713980",
+    "name": "Ecco Verde",
+    "domains": [
+      "ecco-verde.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp763",
+    "name": "EDEKA Reisen",
+    "domains": [
+      "edeka-reisen.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp753605",
+    "name": "EDEKA smart",
+    "domains": [
+      "edeka-smart.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp750766",
+    "name": "eDreams",
+    "domains": [
+      "edreams.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp634342",
+    "name": "EIS",
+    "domains": [
+      "eis.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp704273",
+    "name": "eismann",
+    "domains": [
+      "eismann.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721961",
+    "name": "Emma Matratze",
+    "domains": [
+      "emma-matratze.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp10024030",
+    "name": "EMP",
+    "domains": [
+      "emp.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp720871",
+    "name": "EnBW",
+    "domains": [
+      "enbw.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp571214",
+    "name": "engelhorn",
+    "domains": [
+      "engelhorn.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp732901",
+    "name": "Enpal",
+    "domains": [
+      "enpal.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp767700",
+    "name": "ENTEGA",
+    "domains": [
+      "entega.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp768504",
+    "name": "EPODEX",
+    "domains": [
+      "epodex.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721682",
+    "name": "eprimo",
+    "domains": [
+      "eprimo.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp496550",
+    "name": "Ernsting's family",
+    "domains": [
+      "ernstings-family.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp495685",
+    "name": "Erwin Müller",
+    "domains": [
+      "de.erwinmueller.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp704274",
+    "name": "eschuhe",
+    "domains": [
+      "eschuhe.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp767701",
+    "name": "ESET",
+    "domains": [
+      "eset.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754701",
+    "name": "ESM-Computer",
+    "domains": [
+      "esm-computer.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721435",
+    "name": "ESN",
+    "domains": [
+      "esn.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp623600",
+    "name": "Etsy",
+    "domains": [
+      "etsy.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp486150",
+    "name": "Euroflorist",
+    "domains": [
+      "euroflorist.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp605210",
+    "name": "EURONICS",
+    "domains": [
+      "euronics.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp747703",
+    "name": "Europcar",
+    "domains": [
+      "europcar.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717767",
+    "name": "Eurowings",
+    "domains": [
+      "eurowings.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713013",
+    "name": "Eurowings Holidays",
+    "domains": [
+      "holidays.eurowings.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713402",
+    "name": "everdrop",
+    "domains": [
+      "everdrop.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766306",
+    "name": "EveryWish",
+    "domains": [
+      "everywish.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp752972",
+    "name": "Fabletics",
+    "domains": [
+      "fabletics.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp704892",
+    "name": "Fackelmann",
+    "domains": [
+      "fackelmann.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731230",
+    "name": "FaFit24",
+    "domains": [
+      "fafit24.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp760070",
+    "name": "Fahrrad-Teile Shop",
+    "domains": [
+      "fahrrad-teile.shop"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp720982",
+    "name": "Fahrradlagerverkauf",
+    "domains": [
+      "fahrradlagerverkauf.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp760450",
+    "name": "FahrradXXL",
+    "domains": [
+      "fahrrad-xxl.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp730310",
+    "name": "Falconeri",
+    "domains": [
+      "falconeri.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717",
+    "name": "FARFETCH",
+    "domains": [
+      "farfetch.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp709269",
+    "name": "FAZ",
+    "domains": [
+      "aktion.faz.net"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp666096",
+    "name": "FC Bayern Fan-Shop",
+    "domains": [
+      "fcbayern.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp699170",
+    "name": "FC-Moto",
+    "domains": [
+      "fc-moto.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp622301",
+    "name": "Feelgood-Shop",
+    "domains": [
+      "feelgood-shop.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp753016",
+    "name": "ferienwohnungen",
+    "domains": [
+      "ferienwohnungen.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718336",
+    "name": "Fidelity International",
+    "domains": [
+      "fidelity.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp753569",
+    "name": "Figo Tierversicherung",
+    "domains": [
+      "figopet.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754945",
+    "name": "finanzennet ZERO",
+    "domains": [
+      "finanzen.net"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721962",
+    "name": "FINN",
+    "domains": [
+      "finn.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp702944",
+    "name": "Fitness First",
+    "domains": [
+      "fitnessfirst.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp707712",
+    "name": "flatex",
+    "domains": [
+      "flatex.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713380",
+    "name": "FlexiSpot",
+    "domains": [
+      "flexispot.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp625601",
+    "name": "FlixBus",
+    "domains": [
+      "flixbus.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp483502",
+    "name": "Flora Prima",
+    "domains": [
+      "floraprima.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721343",
+    "name": "Fluege-de",
+    "domains": [
+      "fluege.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713888",
+    "name": "Foot Locker",
+    "domains": [
+      "footlocker.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766252",
+    "name": "FORMEL SKIN",
+    "domains": [
+      "formelskin.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp760377",
+    "name": "Fratelli Carli",
+    "domains": [
+      "oliocarli.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717935",
+    "name": "freenet",
+    "domains": [
+      "freenet.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp430",
+    "name": "Fressnapf",
+    "domains": [
+      "fressnapf.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721051",
+    "name": "FURLA",
+    "domains": [
+      "furla.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp604348",
+    "name": "G-STAR",
+    "domains": [
+      "g-star.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp702825",
+    "name": "Galaxus",
+    "domains": [
+      "galaxus.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp773",
+    "name": "GALERIA",
+    "domains": [
+      "galeria.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp755073",
+    "name": "GARDENA",
+    "domains": [
+      "gardena.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp712989",
+    "name": "Garten & Freizeit",
+    "domains": [
+      "garten-und-freizeit.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754402",
+    "name": "Gartenhaus",
+    "domains": [
+      "gartenhaus-gmbh.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765845",
+    "name": "GEFU",
+    "domains": [
+      "gefu.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp753",
+    "name": "gesund.de",
+    "domains": [
+      "gesund.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp720994",
+    "name": "GEV Grundeigentümer Versicherung",
+    "domains": [
+      "gev-versicherung.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp700539",
+    "name": "Glöckle",
+    "domains": [
+      "gloeckle.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766681",
+    "name": "glow25",
+    "domains": [
+      "glow25.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp712602",
+    "name": "GOBI Cashmere",
+    "domains": [
+      "gobicashmere.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp616682",
+    "name": "GOLDNER",
+    "domains": [
+      "ateliergs.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp706748",
+    "name": "Goodwheel",
+    "domains": [
+      "goodwheel.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp763248",
+    "name": "Google Store",
+    "domains": [
+      "store.google.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731049",
+    "name": "GRANDEL",
+    "domains": [
+      "grandel.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721436",
+    "name": "GROUNDIES",
+    "domains": [
+      "groundies.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp624735",
+    "name": "Groupon",
+    "domains": [
+      "groupon.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp708597",
+    "name": "Grover",
+    "domains": [
+      "grover.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717810",
+    "name": "Günther",
+    "domains": [
+      "guenther.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp627650",
+    "name": "GYMONDO",
+    "domains": [
+      "gymondo.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp631023",
+    "name": "Gymshark",
+    "domains": [
+      "de.gymshark.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721437",
+    "name": "HABA",
+    "domains": [
+      "haba-play.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp473362",
+    "name": "hagebau",
+    "domains": [
+      "hagebau.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721394",
+    "name": "Hallerstede",
+    "domains": [
+      "hallerstede.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp623657",
+    "name": "HAMMER",
+    "domains": [
+      "hammer.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp583",
+    "name": "Hannoversche",
+    "domains": [
+      "hannoversche.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718101",
+    "name": "HanseMerkur",
+    "domains": [
+      "hansemerkur.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp492812",
+    "name": "Happy Size",
+    "domains": [
+      "happy-size.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp573914",
+    "name": "Hawesko",
+    "domains": [
+      "hawesko.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765840",
+    "name": "HEIMKINORAUM",
+    "domains": [
+      "heimkinoraum.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp781",
+    "name": "heine",
+    "domains": [
+      "heine.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp559835",
+    "name": "HelloFresh",
+    "domains": [
+      "hellofresh.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766251",
+    "name": "Helly Hansen",
+    "domains": [
+      "hellyhansen.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp611040",
+    "name": "Hemden.de",
+    "domains": [
+      "hemden.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp708072",
+    "name": "Hempamed",
+    "domains": [
+      "hempamed.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp446",
+    "name": "Herrenausstatter",
+    "domains": [
+      "herrenausstatter.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp535326",
+    "name": "hessnatur",
+    "domains": [
+      "hessnatur.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp539418",
+    "name": "HIRMER",
+    "domains": [
+      "hirmer.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp616272",
+    "name": "Hirmer GROSSE GRÖSSEN",
+    "domains": [
+      "hirmer-grosse-groessen.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp759970",
+    "name": "Höfer-Shop",
+    "domains": [
+      "hoefer-shop.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp755031",
+    "name": "Hoffmann Germany",
+    "domains": [
+      "hoffmann-germany.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718711",
+    "name": "Holidu",
+    "domains": [
+      "holidu.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765355",
+    "name": "HOLY",
+    "domains": [
+      "de.weareholy.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721945",
+    "name": "Hood",
+    "domains": [
+      "hood.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721328",
+    "name": "HOTEL DE",
+    "domains": [
+      "hotel.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp10024025",
+    "name": "HP",
+    "domains": [
+      "store.hp.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp708932",
+    "name": "HRS",
+    "domains": [
+      "hrs.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp473367",
+    "name": "HSE",
+    "domains": [
+      "hse.de",
+      "hse24.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp705555",
+    "name": "Huawei",
+    "domains": [
+      "consumer.huawei.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721312",
+    "name": "Hugendubel",
+    "domains": [
+      "hugendubel.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp767702",
+    "name": "HUGO BOSS",
+    "domains": [
+      "hugoboss.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp540024",
+    "name": "Hunkemöller",
+    "domains": [
+      "hunkemoller.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754703",
+    "name": "Husqvarna",
+    "domains": [
+      "husqvarna.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp753239",
+    "name": "hygi",
+    "domains": [
+      "hygi.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp623398",
+    "name": "Idee - Der Creativmarkt",
+    "domains": [
+      "idee-shop.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754362",
+    "name": "iHerb",
+    "domains": [
+      "de.iherb.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp702423",
+    "name": "Impericon",
+    "domains": [
+      "impericon.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717769",
+    "name": "Inhofer",
+    "domains": [
+      "inhofer.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp627737",
+    "name": "INTERSPORT",
+    "domains": [
+      "intersport.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp730311",
+    "name": "Intimissimi",
+    "domains": [
+      "intimissimi.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp716027",
+    "name": "IT-Nerd24",
+    "domains": [
+      "it-nerd24.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp627786",
+    "name": "JACK & JONES",
+    "domains": [
+      "jackjones.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp714144",
+    "name": "Jack Wolfskin",
+    "domains": [
+      "jack-wolfskin.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718481",
+    "name": "Jackery",
+    "domains": [
+      "de.jackery.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp704341",
+    "name": "Jako",
+    "domains": [
+      "jako.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721946",
+    "name": "Jalousiescout",
+    "domains": [
+      "jalousiescout.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp625488",
+    "name": "Jan Vanderstorm",
+    "domains": [
+      "janvanderstorm.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp560",
+    "name": "Jochen Schweizer",
+    "domains": [
+      "jochen-schweizer.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721060",
+    "name": "JOOM",
+    "domains": [
+      "joom.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp752971",
+    "name": "Josera",
+    "domains": [
+      "josera.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp762599",
+    "name": "Jotex",
+    "domains": [
+      "jotex.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp733055",
+    "name": "journaway",
+    "domains": [
+      "journaway.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp516438",
+    "name": "Joyn",
+    "domains": [
+      "joyn.de",
+      "plus.joyn.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp712643",
+    "name": "JP1880",
+    "domains": [
+      "jp1880.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp712816",
+    "name": "Judith Williams",
+    "domains": [
+      "judithwilliams.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp627540",
+    "name": "Jungborn",
+    "domains": [
+      "jungborn.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp732931",
+    "name": "JUSKYS",
+    "domains": [
+      "juskys.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717928",
+    "name": "justTRADE",
+    "domains": [
+      "justtrade.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp747455",
+    "name": "Kalendersale",
+    "domains": [
+      "kalendersale.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp626487",
+    "name": "Kapten & Son",
+    "domains": [
+      "kapten-son.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp738532",
+    "name": "Kärcher",
+    "domains": [
+      "kaercher.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754857",
+    "name": "KARL LAGERFELD",
+    "domains": [
+      "karllagerfeld.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp716128",
+    "name": "kavalio",
+    "domains": [
+      "kavalio.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766644",
+    "name": "KETTLER",
+    "domains": [
+      "kettlershop.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718127",
+    "name": "Kiehl's",
+    "domains": [
+      "kiehls.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718128",
+    "name": "KINGUIN",
+    "domains": [
+      "kinguin.net"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713012",
+    "name": "KitchenAid",
+    "domains": [
+      "kitchenaid.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp720888",
+    "name": "klarmobil",
+    "domains": [
+      "klarmobil.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721392",
+    "name": "Kleines Kraftwerk",
+    "domains": [
+      "kleineskraftwerk.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp492816",
+    "name": "KLINGEL",
+    "domains": [
+      "klingel.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765152",
+    "name": "klook",
+    "domains": [
+      "klook.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721521",
+    "name": "Koempf24",
+    "domains": [
+      "koempf24.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp732886",
+    "name": "Koffer-to-go",
+    "domains": [
+      "koffer-to-go.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp540145",
+    "name": "koffer.com",
+    "domains": [
+      "koffer.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp753245",
+    "name": "KS/Auxilia",
+    "domains": [
+      "ks-auxilia.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp720963",
+    "name": "Kutami",
+    "domains": [
+      "kutami.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp747453",
+    "name": "LaminatDEPOT",
+    "domains": [
+      "laminatdepot.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp760109",
+    "name": "Lampenonline",
+    "domains": [
+      "lampenonline.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp492804",
+    "name": "Lampenwelt",
+    "domains": [
+      "lampenwelt.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718129",
+    "name": "Lancôme",
+    "domains": [
+      "lancome.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp483540",
+    "name": "Lands' End",
+    "domains": [
+      "landsend.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp735",
+    "name": "LASCANA",
+    "domains": [
+      "lascana.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp706321",
+    "name": "lastminute.de",
+    "domains": [
+      "lastminute.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp625956",
+    "name": "Lauenstein Confiserie",
+    "domains": [
+      "lauensteiner.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp752986",
+    "name": "Lebara",
+    "domains": [
+      "lebara.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717997",
+    "name": "Lebkuchen Schmidt",
+    "domains": [
+      "lebkuchen-schmidt.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp605212",
+    "name": "LEGO",
+    "domains": [
+      "lego.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713011",
+    "name": "Leifheit",
+    "domains": [
+      "leifheit.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721967",
+    "name": "LemonSwan",
+    "domains": [
+      "lemonswan.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp555509",
+    "name": "Lenovo",
+    "domains": [
+      "lenovo.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718520",
+    "name": "Lensbest",
+    "domains": [
+      "lensbest.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp711669",
+    "name": "Lenstore",
+    "domains": [
+      "lenstore.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721678",
+    "name": "Leonardo Hotels",
+    "domains": [
+      "leonardo-hotels.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp732972",
+    "name": "Levi's®",
+    "domains": [
+      "levi.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766198",
+    "name": "LEXA Pferdefutter",
+    "domains": [
+      "lexa-pferdefutter.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721452",
+    "name": "LG Electronics",
+    "domains": [
+      "lg.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721311",
+    "name": "LIBERTY WOMAN",
+    "domains": [
+      "liberty-woman.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713069",
+    "name": "LichtBlick",
+    "domains": [
+      "lichtblick.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp621389",
+    "name": "LIEBESKIND Berlin",
+    "domains": [
+      "de.liebeskind-berlin.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721438",
+    "name": "LiveFresh",
+    "domains": [
+      "livefresh.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718712",
+    "name": "Lizenzguru",
+    "domains": [
+      "lizenzguru.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp633943",
+    "name": "LLOYD",
+    "domains": [
+      "lloyd.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp610398",
+    "name": "LOBERON",
+    "domains": [
+      "loberon.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp664443",
+    "name": "lookfantastic",
+    "domains": [
+      "lookfantastic.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp604862",
+    "name": "Lotto",
+    "domains": [
+      "lotto.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp755074",
+    "name": "Lotto24",
+    "domains": [
+      "lotto24.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713201",
+    "name": "ltur",
+    "domains": [
+      "ltur.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp533870",
+    "name": "Lucky Bike",
+    "domains": [
+      "lucky-bike.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718620",
+    "name": "Ludwig von Kapff",
+    "domains": [
+      "ludwig-von-kapff.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp616686",
+    "name": "Lufthansa AG",
+    "domains": [
+      "lufthansa.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718618",
+    "name": "lululemon",
+    "domains": [
+      "lululemon.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754372",
+    "name": "LUSINI",
+    "domains": [
+      "lusini.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718020",
+    "name": "M-net",
+    "domains": [
+      "m-net.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp709271",
+    "name": "Maciag Offroad",
+    "domains": [
+      "maciag-offroad.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp610399",
+    "name": "MacTrade",
+    "domains": [
+      "mactrade.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718411",
+    "name": "MADELEINE",
+    "domains": [
+      "madeleine.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp738481",
+    "name": "MAINGAU",
+    "domains": [
+      "maingau-energie.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721647",
+    "name": "Mainova",
+    "domains": [
+      "mainova.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp536712",
+    "name": "MANGO",
+    "domains": [
+      "shop.mango.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp608866",
+    "name": "Marc O'Polo",
+    "domains": [
+      "marc-o-polo.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp499032",
+    "name": "Markenkoffer GmbH",
+    "domains": [
+      "markenkoffer.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp758",
+    "name": "MARKTKAUF Online-Shop",
+    "domains": [
+      "marktkauf.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp764",
+    "name": "MARKTKAUF-Reisen",
+    "domains": [
+      "marktkauf-reisen.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp720876",
+    "name": "Marriott Bonvoy",
+    "domains": [
+      "marriott.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp711665",
+    "name": "Massivmöbel24",
+    "domains": [
+      "massivmoebel24.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp763862",
+    "name": "Matratzen Concord",
+    "domains": [
+      "matratzen-concord.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp750111",
+    "name": "MAXCARE",
+    "domains": [
+      "maxcare.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718029",
+    "name": "MAXENERGY",
+    "domains": [
+      "maxenergy.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754856",
+    "name": "Maxi-Cosi",
+    "domains": [
+      "maxi-cosi.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp628164",
+    "name": "MediaMarkt Online",
+    "domains": [
+      "mediamarkt.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718021",
+    "name": "MediaMarktSaturn Tarifwelt",
+    "domains": [
+      "tarife.mediamarkt.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp703954",
+    "name": "Mediashop",
+    "domains": [
+      "mediashop.tv"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766250",
+    "name": "Medicom",
+    "domains": [
+      "medicom.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp539843",
+    "name": "Medimops",
+    "domains": [
+      "medimops.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp499603",
+    "name": "MEDION",
+    "domains": [
+      "medion.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754858",
+    "name": "MEGABAD",
+    "domains": [
+      "megabad.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp711668",
+    "name": "Mein Schiff",
+    "domains": [
+      "meinschiff.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp518430",
+    "name": "MeinFoto/Album/XXL",
+    "domains": [
+      "meinfoto.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp752985",
+    "name": "Mepal",
+    "domains": [
+      "mepal.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754885",
+    "name": "Mephisto",
+    "domains": [
+      "mephisto.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp608128",
+    "name": "Mey & Edlich",
+    "domains": [
+      "mey-edlich.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721395",
+    "name": "Michael Kors",
+    "domains": [
+      "michaelkors.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp571212",
+    "name": "Möbel-Eins",
+    "domains": [
+      "moebel-eins.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718516",
+    "name": "Modivo",
+    "domains": [
+      "modivo.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp666097",
+    "name": "mömax",
+    "domains": [
+      "moemax.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721522",
+    "name": "momox fashion",
+    "domains": [
+      "momoxfashion.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp499038",
+    "name": "MONA",
+    "domains": [
+      "mona.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721062",
+    "name": "motoin",
+    "domains": [
+      "motoin.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718714",
+    "name": "Motointegrator",
+    "domains": [
+      "motointegrator.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718715",
+    "name": "MOU MOU MUNICH",
+    "domains": [
+      "moumoumunich.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766188",
+    "name": "MOVA",
+    "domains": [
+      "de.mova.tech"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721183",
+    "name": "Möve",
+    "domains": [
+      "moeve.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717996",
+    "name": "MR PORTER",
+    "domains": [
+      "mrporter.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp616273",
+    "name": "MUJI",
+    "domains": [
+      "germany.muji.eu"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp767703",
+    "name": "mybacs",
+    "domains": [
+      "mybacs.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718412",
+    "name": "mymuesli",
+    "domains": [
+      "mymuesli.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp615006",
+    "name": "Myprotein",
+    "domains": [
+      "de.myprotein.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721254",
+    "name": "Naturtreu",
+    "domains": [
+      "naturtreu.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713070",
+    "name": "Nespresso",
+    "domains": [
+      "nespresso.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp756",
+    "name": "Netto Online-Shop",
+    "domains": [
+      "netto-online.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp757",
+    "name": "Netto-Reisen",
+    "domains": [
+      "netto-reisen.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713195",
+    "name": "NEW Energie",
+    "domains": [
+      "new-energie.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp753783",
+    "name": "NEXT",
+    "domains": [
+      "next.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp702588",
+    "name": "NFL",
+    "domains": [
+      "europe.nflshop.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp712815",
+    "name": "Niche Beauty",
+    "domains": [
+      "niche-beauty.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp625932",
+    "name": "Nike",
+    "domains": [
+      "nike.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp499579",
+    "name": "NIVOCASE",
+    "domains": [
+      "deindesign.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp702703",
+    "name": "NordVPN",
+    "domains": [
+      "nordvpn.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp499578",
+    "name": "notebooksbilliger",
+    "domains": [
+      "notebooksbilliger.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp707645",
+    "name": "Notino",
+    "domains": [
+      "notino.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721723",
+    "name": "o2",
+    "domains": [
+      "o2online.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp769155",
+    "name": "Oakley",
+    "domains": [
+      "oakley.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754375",
+    "name": "OBI",
+    "domains": [
+      "obi.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp778",
+    "name": "Octopus Energy",
+    "domains": [
+      "octopusenergy.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp618322",
+    "name": "Odlo",
+    "domains": [
+      "odlo.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp623117",
+    "name": "office discount",
+    "domains": [
+      "office-discount.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp627045",
+    "name": "Office-Partner",
+    "domains": [
+      "office-partner.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718522",
+    "name": "Olight",
+    "domains": [
+      "olightstore.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp483513",
+    "name": "OLYMP",
+    "domains": [
+      "olymp.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754360",
+    "name": "On",
+    "domains": [
+      "on.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp698962",
+    "name": "ONLY",
+    "domains": [
+      "only.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp750765",
+    "name": "Opodo",
+    "domains": [
+      "opodo.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721244",
+    "name": "Oral-B",
+    "domains": [
+      "oralb.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp634672",
+    "name": "ORION Versand",
+    "domains": [
+      "orion.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731109",
+    "name": "OROVIVO",
+    "domains": [
+      "orovivo.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp516451",
+    "name": "OTTO Office",
+    "domains": [
+      "otto-office.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp571213",
+    "name": "OUTLETCITY",
+    "domains": [
+      "outletcity.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718482",
+    "name": "Paramount+",
+    "domains": [
+      "paramountplus.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp499568",
+    "name": "Parfumdreams",
+    "domains": [
+      "parfumdreams.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp713077",
+    "name": "ParfumGroup",
+    "domains": [
+      "parfumgroup.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp747023",
+    "name": "Parken-und-Fliegen",
+    "domains": [
+      "parken-und-fliegen.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731254",
+    "name": "Parship",
+    "domains": [
+      "parship.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp701344",
+    "name": "PAUL HEWITT",
+    "domains": [
+      "paul-hewitt.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp733056",
+    "name": "Paul Schrader",
+    "domains": [
+      "paul-schrader.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp625295",
+    "name": "Paulmann Licht",
+    "domains": [
+      "de.paulmann.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp741",
+    "name": "PAYBACK Gutscheine",
+    "domains": [
+      "gutscheine.payback.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718497",
+    "name": "PERGOLUX",
+    "domains": [
+      "pergolux.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp604346",
+    "name": "Peter Hahn",
+    "domains": [
+      "peterhahn.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731436",
+    "name": "Pets Deli",
+    "domains": [
+      "petsdeli.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp574458",
+    "name": "pets Premium",
+    "domains": [
+      "petspremium.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721804",
+    "name": "Pflanzen-Kölle",
+    "domains": [
+      "pflanzen-koelle.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp769125",
+    "name": "Philips Home",
+    "domains": [
+      "home-appliances.philips"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721346",
+    "name": "Philips hue",
+    "domains": [
+      "philips-hue.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp714027",
+    "name": "Piercingline",
+    "domains": [
+      "piercingline.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp706635",
+    "name": "Pierre Cardin",
+    "domains": [
+      "pierre-cardin.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718339",
+    "name": "POCO",
+    "domains": [
+      "poco.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718133",
+    "name": "Polar",
+    "domains": [
+      "polar.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp634222",
+    "name": "Pollin Electronic",
+    "domains": [
+      "pollin.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp575813",
+    "name": "POLO",
+    "domains": [
+      "polo-motorrad.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717845",
+    "name": "Porsche",
+    "domains": [
+      "shop.porsche.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754401",
+    "name": "Princess Cruises",
+    "domains": [
+      "princesscruises.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp623194",
+    "name": "Printus",
+    "domains": [
+      "printus.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731232",
+    "name": "Prophete",
+    "domains": [
+      "prophete.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718226",
+    "name": "Proshop",
+    "domains": [
+      "proshop.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp502181",
+    "name": "Puma",
+    "domains": [
+      "eu.puma.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp762131",
+    "name": "PURISH",
+    "domains": [
+      "purish.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718016",
+    "name": "PYUR",
+    "domains": [
+      "pyur.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp753567",
+    "name": "Qatar Airways",
+    "domains": [
+      "qatarairways.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp574461",
+    "name": "QUELLE",
+    "domains": [
+      "quelle.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718230",
+    "name": "Quirion",
+    "domains": [
+      "quirion.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp752969",
+    "name": "Rabot Energy",
+    "domains": [
+      "rabot.energy"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp753246",
+    "name": "Radisson Hotels",
+    "domains": [
+      "radissonhotels.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp709273",
+    "name": "RADWELT-Shop",
+    "domains": [
+      "radwelt-shop.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp769153",
+    "name": "Ray-Ban",
+    "domains": [
+      "ray-ban.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718415",
+    "name": "Readly",
+    "domains": [
+      "de.readly.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731255",
+    "name": "Rebike",
+    "domains": [
+      "rebike.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp534041",
+    "name": "rebuy",
+    "domains": [
+      "rebuy.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp720863",
+    "name": "Refurbed",
+    "domains": [
+      "refurbed.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp762132",
+    "name": "ReisenAKTUELL",
+    "domains": [
+      "reisenaktuell.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp750762",
+    "name": "reservix",
+    "domains": [
+      "reservix.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp764120",
+    "name": "restablo",
+    "domains": [
+      "restablo.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp616978",
+    "name": "Rindchen's Weinkontor",
+    "domains": [
+      "rindchen.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731425",
+    "name": "roadsurfer",
+    "domains": [
+      "roadsurfer.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp706491",
+    "name": "roastmarket",
+    "domains": [
+      "roastmarket.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp764687",
+    "name": "Rollo Rieper",
+    "domains": [
+      "rollorieper.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766594",
+    "name": "RSD Reisen",
+    "domains": [
+      "rsd-reisen.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp706527",
+    "name": "RTL+",
+    "domains": [
+      "tvnow.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp747990",
+    "name": "Rugvista",
+    "domains": [
+      "rugvista.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp752987",
+    "name": "Running Point",
+    "domains": [
+      "running-point.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766108",
+    "name": "S Broker",
+    "domains": [
+      "sbroker.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp753568",
+    "name": "S-Kreditpartner",
+    "domains": [
+      "skpk.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp478395",
+    "name": "s.Oliver",
+    "domains": [
+      "soliver.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp706812",
+    "name": "Samsung",
+    "domains": [
+      "samsung.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721679",
+    "name": "sanicare Apotheke",
+    "domains": [
+      "sanicare.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp720959",
+    "name": "Scalable Capital",
+    "domains": [
+      "de.scalable.capital"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp485623",
+    "name": "Schäfer Shop",
+    "domains": [
+      "schaefer-shop.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731452",
+    "name": "Schaffrath",
+    "domains": [
+      "schaffrath.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754363",
+    "name": "Scheppach",
+    "domains": [
+      "scheppach.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp539447",
+    "name": "Schiesser",
+    "domains": [
+      "schiesser.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp705049",
+    "name": "Schleich",
+    "domains": [
+      "schleich-s.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718225",
+    "name": "SCHUFA",
+    "domains": [
+      "meineschufa.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp518270",
+    "name": "Schuhcenter DE",
+    "domains": [
+      "schuhcenter.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765380",
+    "name": "schuhe.de",
+    "domains": [
+      "schuhe.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp763861",
+    "name": "Schülerhilfe",
+    "domains": [
+      "schuelerhilfe.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp769126",
+    "name": "SEETELHOTELS",
+    "domains": [
+      "seetel.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp518269",
+    "name": "seidensticker",
+    "domains": [
+      "seidensticker.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765841",
+    "name": "Selected",
+    "domains": [
+      "selected.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp704343",
+    "name": "Sephora",
+    "domains": [
+      "sephora.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718413",
+    "name": "SharkNinja",
+    "domains": [
+      "ninjakitchen.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp706477",
+    "name": "SHEIN",
+    "domains": [
+      "de.shein.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp720962",
+    "name": "SHEKO",
+    "domains": [
+      "sheko.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp703658",
+    "name": "Shop4runners",
+    "domains": [
+      "shop4runners.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp664444",
+    "name": "sieh-an",
+    "domains": [
+      "sieh-an.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765019",
+    "name": "Siemens",
+    "domains": [
+      "siemens-home.bsh-group.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp702391",
+    "name": "Silkes Weinkeller",
+    "domains": [
+      "silkes-weinkeller.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754986",
+    "name": "sim. de",
+    "domains": [
+      "sim.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp732177",
+    "name": "SIMon mobile",
+    "domains": [
+      "simonmobile.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp747531",
+    "name": "SIRPLUS",
+    "domains": [
+      "sirplus.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp732178",
+    "name": "SKECHERS",
+    "domains": [
+      "skechers.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp763572",
+    "name": "SkinCeuticals",
+    "domains": [
+      "skinceuticals.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp703",
+    "name": "Sky",
+    "domains": [
+      "sky.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp760375",
+    "name": "SMARTBROKER+",
+    "domains": [
+      "smartbrokerplus.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721066",
+    "name": "SMARTments business",
+    "domains": [
+      "smartments-business.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp707262",
+    "name": "smartsteuer",
+    "domains": [
+      "smartsteuer.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp769158",
+    "name": "SnowTrex",
+    "domains": [
+      "snowtrex.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp752394",
+    "name": "SONGMICS Home",
+    "domains": [
+      "songmics.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp708598",
+    "name": "sonnenklar.tv",
+    "domains": [
+      "sonnenklar.tv"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp701630",
+    "name": "SONOS",
+    "domains": [
+      "sonos.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp720887",
+    "name": "Sony",
+    "domains": [
+      "sony.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765379",
+    "name": "SPORT 2000",
+    "domains": [
+      "sport2000.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765783",
+    "name": "Sports Direct",
+    "domains": [
+      "sportsdirect.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721067",
+    "name": "Sportwerk",
+    "domains": [
+      "sportwerk.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp499569",
+    "name": "Spreadshirt",
+    "domains": [
+      "spreadshirt.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp762311",
+    "name": "Stanley 1913",
+    "domains": [
+      "eu.stanley1913.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp768841",
+    "name": "Stapelstein",
+    "domains": [
+      "stapelstein.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp764686",
+    "name": "STIHL",
+    "domains": [
+      "stihl.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721245",
+    "name": "Stokke",
+    "domains": [
+      "stokke.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp752218",
+    "name": "Stylevana",
+    "domains": [
+      "stylevana.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp547",
+    "name": "SunExpress Online",
+    "domains": [
+      "sunexpress.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp769154",
+    "name": "Sunglass Hut",
+    "domains": [
+      "sunglasshut.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp536296",
+    "name": "Superdry",
+    "domains": [
+      "superdry.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp712629",
+    "name": "Surfshark",
+    "domains": [
+      "surfshark.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp747698",
+    "name": "SUUNTO",
+    "domains": [
+      "suunto.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp538140",
+    "name": "Swarovski",
+    "domains": [
+      "swarovski.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp705050",
+    "name": "SZ Plus",
+    "domains": [
+      "produkte.sueddeutsche.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp625831",
+    "name": "Takko",
+    "domains": [
+      "takko.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp712630",
+    "name": "Tamaris",
+    "domains": [
+      "tamaris.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp500194",
+    "name": "Taschenkaufhaus by Sakoi",
+    "domains": [
+      "taschenkaufhaus.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp473364",
+    "name": "Tchibo",
+    "domains": [
+      "tchibo.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721228",
+    "name": "tectake",
+    "domains": [
+      "tectake.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp271",
+    "name": "Tee Gschwendner",
+    "domains": [
+      "teegschwendner.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718594",
+    "name": "Tefal",
+    "domains": [
+      "tefal.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp733",
+    "name": "Telekom",
+    "domains": [
+      "telekom.payback.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717613",
+    "name": "TEMPUR",
+    "domains": [
+      "de.tempur.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp605215",
+    "name": "Tennis-Point",
+    "domains": [
+      "tennis-point.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp539897",
+    "name": "Terra Canis",
+    "domains": [
+      "terracanis.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp730312",
+    "name": "Tezenis",
+    "domains": [
+      "tezenis.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp423",
+    "name": "Thalia",
+    "domains": [
+      "thalia.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765843",
+    "name": "The Female Company",
+    "domains": [
+      "thefemalecompany.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp702903",
+    "name": "The North Face",
+    "domains": [
+      "thenorthface.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp708510",
+    "name": "The Outnet",
+    "domains": [
+      "theoutnet.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp747529",
+    "name": "Tierliebhaber",
+    "domains": [
+      "tierliebhaber.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp703982",
+    "name": "Timberland",
+    "domains": [
+      "timberland.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp703983",
+    "name": "tink",
+    "domains": [
+      "tink.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp565997",
+    "name": "Tirendo",
+    "domains": [
+      "tirendo.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718228",
+    "name": "Tischwelt",
+    "domains": [
+      "tischwelt.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721290",
+    "name": "TK Maxx",
+    "domains": [
+      "tkmaxx.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp573960",
+    "name": "Tom Tailor",
+    "domains": [
+      "tom-tailor.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp483542",
+    "name": "Tommy Hilfiger",
+    "domains": [
+      "de.tommy.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp609750",
+    "name": "TOPSHOP",
+    "domains": [
+      "eu.topshop.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp706813",
+    "name": "Tory Burch",
+    "domains": [
+      "toryburch.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721289",
+    "name": "Tourlane",
+    "domains": [
+      "tourlane.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721068",
+    "name": "treatwell",
+    "domains": [
+      "treatwell.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp752393",
+    "name": "trendtours",
+    "domains": [
+      "trendtours.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721648",
+    "name": "TRETTER",
+    "domains": [
+      "tretter.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731437",
+    "name": "Trip.com",
+    "domains": [
+      "trip.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp536744",
+    "name": "Triumph",
+    "domains": [
+      "de.triumph.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp747532",
+    "name": "Trotec",
+    "domains": [
+      "de.trotec.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp712423",
+    "name": "TUI",
+    "domains": [
+      "tui.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721680",
+    "name": "TUI CAMPER",
+    "domains": [
+      "tuicamper.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721681",
+    "name": "TUI CARS",
+    "domains": [
+      "tuicars.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp755000",
+    "name": "Tylko",
+    "domains": [
+      "tylko.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp620474",
+    "name": "UGG",
+    "domains": [
+      "ugg.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp574917",
+    "name": "Ulla Popken",
+    "domains": [
+      "ullapopken.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp627022",
+    "name": "Under Armour",
+    "domains": [
+      "underarmour.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp738480",
+    "name": "urlaubsguru",
+    "domains": [
+      "urlaubsguru.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp618299",
+    "name": "VALMANO",
+    "domains": [
+      "valmano.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp615008",
+    "name": "VAN GRAAF",
+    "domains": [
+      "vangraaf.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp700909",
+    "name": "Vans",
+    "domains": [
+      "vans.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp518360",
+    "name": "Vente-unique",
+    "domains": [
+      "kauf-unique.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp699120",
+    "name": "VERO MODA",
+    "domains": [
+      "veromoda.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp706634",
+    "name": "Vertbaudet",
+    "domains": [
+      "vertbaudet.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717715",
+    "name": "VEVOR",
+    "domains": [
+      "vevor.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp733057",
+    "name": "VidaXL",
+    "domains": [
+      "vidaxl.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp483534",
+    "name": "Viking",
+    "domains": [
+      "viking.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp708074",
+    "name": "Vitaminexpress",
+    "domains": [
+      "vitaminexpress.org"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721948",
+    "name": "VitaminVersand24",
+    "domains": [
+      "vitaminversand24.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718019",
+    "name": "Vodafone",
+    "domains": [
+      "vodafone.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp537568",
+    "name": "voelkner",
+    "domains": [
+      "voelkner.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731427",
+    "name": "Voghion",
+    "domains": [
+      "de.voghion.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721649",
+    "name": "Volksversand Apotheke",
+    "domains": [
+      "volksversand.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp729",
+    "name": "voucherize Geschenkgutscheine",
+    "domains": [
+      "voucherize.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721984",
+    "name": "waipu.tv",
+    "domains": [
+      "waipu.tv"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp534715",
+    "name": "Walbusch",
+    "domains": [
+      "walbusch.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp623055",
+    "name": "walzvital",
+    "domains": [
+      "walzvital.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp750763",
+    "name": "Waterdrop",
+    "domains": [
+      "waterdrop.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp712242",
+    "name": "Weekday",
+    "domains": [
+      "weekday.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp706322",
+    "name": "weg.de",
+    "domains": [
+      "weg.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp714028",
+    "name": "Wein & Vinos",
+    "domains": [
+      "vinos.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp624791",
+    "name": "Weinfreunde",
+    "domains": [
+      "weinfreunde.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765394",
+    "name": "Weinfürst",
+    "domains": [
+      "weinfuerst.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765381",
+    "name": "WELCON",
+    "domains": [
+      "welcon-shop.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721348",
+    "name": "weloveholidays",
+    "domains": [
+      "loveholidays.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp753782",
+    "name": "Werkzeugstore24",
+    "domains": [
+      "werkzeugstore24.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp768509",
+    "name": "WeRoad",
+    "domains": [
+      "weroad.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp709118",
+    "name": "Western Digital",
+    "domains": [
+      "shop.westerndigital.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717413",
+    "name": "Westwing",
+    "domains": [
+      "westwing.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp712384",
+    "name": "Wickey",
+    "domains": [
+      "wickey.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp760376",
+    "name": "Wilson",
+    "domains": [
+      "wilson.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754987",
+    "name": "winSIM",
+    "domains": [
+      "winsim.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp536947",
+    "name": "WIRKAUFENS",
+    "domains": [
+      "wirkaufens.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp749",
+    "name": "Witt",
+    "domains": [
+      "witt-weiden.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp760374",
+    "name": "WOLL",
+    "domains": [
+      "woll.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717856",
+    "name": "Wolt",
+    "domains": [
+      "wolt.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp518349",
+    "name": "World of Sweets",
+    "domains": [
+      "worldofsweets.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp496548",
+    "name": "WOW",
+    "domains": [
+      "skyticket.sky.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp717644",
+    "name": "Wunschgutschein",
+    "domains": [
+      "wunschgutschein.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721069",
+    "name": "Xiaomi",
+    "domains": [
+      "mi.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp754359",
+    "name": "XTB",
+    "domains": [
+      "xtb.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp617210",
+    "name": "XXXLutz",
+    "domains": [
+      "xxxlutz.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp742",
+    "name": "YELLO",
+    "domains": [
+      "yello.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp712253",
+    "name": "yfood",
+    "domains": [
+      "yfood.eu"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp473356",
+    "name": "Yves Rocher",
+    "domains": [
+      "yves-rocher.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp765356",
+    "name": "zattoo",
+    "domains": [
+      "zattoo.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp721180",
+    "name": "Zaun-Idee",
+    "domains": [
+      "zaun-idee.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766187",
+    "name": "ZenHotels",
+    "domains": [
+      "zenhotels.com"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp707622",
+    "name": "zero",
+    "domains": [
+      "zero.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp731139",
+    "name": "zooplus",
+    "domains": [
+      "zooplus.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp718621",
+    "name": "Zurbrüggen",
+    "domains": [
+      "zurbrueggen.de"
+    ],
+    "verifiedFallback": false
+  },
+  {
+    "partnerId": "lp766307",
+    "name": "ZWILLING",
+    "domains": [
+      "zwilling.com"
+    ],
+    "verifiedFallback": false
+  }
+]

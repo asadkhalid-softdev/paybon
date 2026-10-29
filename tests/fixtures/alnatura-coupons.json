@@ -1,0 +1,134 @@
+[
+  {
+    "id": "900001",
+    "partnerShortName": "lp387",
+    "partnerName": "Alnatura",
+    "partnerLogoUrl": "https://www.payback.de/res/mam/1/lp387/nl-coupon-partner-logo/1/1/logo.png",
+    "label": "20FACH °P",
+    "description": "auf Pukka!*",
+    "validity": "Gültig bis 22.11.2026",
+    "status": "not_activated",
+    "buttonList": [
+      {
+        "type": "not_activated",
+        "text": "Jetzt aktivieren",
+        "color": "blue",
+        "action": "$undefined",
+        "action_url": "$undefined",
+        "action_headline": "$undefined",
+        "action_text": "$undefined"
+      }
+    ],
+    "acceptanceType": "offline"
+  },
+  {
+    "id": "900013",
+    "partnerShortName": "lp387",
+    "partnerName": "Alnatura",
+    "partnerLogoUrl": "https://www.payback.de/res/mam/1/lp387/nl-coupon-partner-logo/1/1/logo.png",
+    "label": "8FACH °P",
+    "description": "auf Käse von der Bedientheke!*",
+    "validity": "Gültig bis 22.11.2026",
+    "status": "not_activated",
+    "buttonList": [
+      {
+        "type": "not_activated",
+        "text": "Jetzt aktivieren",
+        "color": "blue",
+        "action": "$undefined",
+        "action_url": "$undefined",
+        "action_headline": "$undefined",
+        "action_text": "$undefined"
+      }
+    ],
+    "acceptanceType": "offline"
+  },
+  {
+    "id": "900014",
+    "partnerShortName": "lp387",
+    "partnerName": "Alnatura",
+    "partnerLogoUrl": "https://www.payback.de/res/mam/1/lp387/nl-coupon-partner-logo/1/1/logo.png",
+    "label": "10FACH °P",
+    "description": "auf Gesundheitsprodukte!*",
+    "validity": "Gültig bis 22.11.2026",
+    "status": "not_activated",
+    "buttonList": [
+      {
+        "type": "not_activated",
+        "text": "Jetzt aktivieren",
+        "color": "blue",
+        "action": "$undefined",
+        "action_url": "$undefined",
+        "action_headline": "$undefined",
+        "action_text": "$undefined"
+      }
+    ],
+    "acceptanceType": "offline"
+  },
+  {
+    "id": "900015",
+    "partnerShortName": "lp387",
+    "partnerName": "Alnatura",
+    "partnerLogoUrl": "https://www.payback.de/res/mam/1/lp387/nl-coupon-partner-logo/1/1/logo.png",
+    "label": "15FACH °P",
+    "description": "auf Haarpflege!*",
+    "validity": "Gültig bis 22.11.2026",
+    "status": "not_activated",
+    "buttonList": [
+      {
+        "type": "not_activated",
+        "text": "Jetzt aktivieren",
+        "color": "blue",
+        "action": "$undefined",
+        "action_url": "$undefined",
+        "action_headline": "$undefined",
+        "action_text": "$undefined"
+      }
+    ],
+    "acceptanceType": "offline"
+  },
+  {
+    "id": "900016",
+    "partnerShortName": "lp387",
+    "partnerName": "Alnatura",
+    "partnerLogoUrl": "https://www.payback.de/res/mam/1/lp387/nl-coupon-partner-logo/1/1/logo.png",
+    "label": "10FACH °P",
+    "description": "auf Tee!*",
+    "validity": "Gültig bis 22.11.2026",
+    "status": "not_activated",
+    "buttonList": [
+      {
+        "type": "not_activated",
+        "text": "Jetzt aktivieren",
+        "color": "blue",
+        "action": "$undefined",
+        "action_url": "$undefined",
+        "action_headline": "$undefined",
+        "action_text": "$undefined"
+      }
+    ],
+    "acceptanceType": "offline"
+  },
+  {
+    "id": "900017",
+    "partnerShortName": "lp387",
+    "partnerName": "Alnatura",
+    "partnerLogoUrl": "https://www.payback.de/res/mam/1/lp387/nl-coupon-partner-logo/1/1/logo.png",
+    "label": "12FACH °P",
+    "description": "auf Backzutaten, Mehle und Zucker!*",
+    "validity": "Gültig bis 22.11.2026",
+    "status": "not_activated",
+    "buttonList": [
+      {
+        "type": "not_activated",
+        "text": "Jetzt aktivieren",
+        "color": "blue",
+        "action": "$undefined",
+        "action_url": "$undefined",
+        "action_headline": "$undefined",
+        "action_text": "$undefined"
+      }
+    ],
+    "acceptanceType": "offline"
+  }
+]
