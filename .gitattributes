@@ -5,6 +5,8 @@
 *.html text eol=lf
 *.css text eol=lf
 *.md text eol=lf
+*.txt text eol=lf
+LICENSE text eol=lf
 *.svg text eol=lf
 *.png binary
 *.woff binary

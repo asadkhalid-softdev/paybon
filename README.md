@@ -97,3 +97,7 @@ Site access lets PayBon display its UI across supported websites and contact PAY
 ## Development
 
 See [DEVELOPMENT.md](DEVELOPMENT.md) for source layout, tests, packaging and mapping maintenance. Mapping sources and coverage are documented in [data/README.md](data/README.md).
+
+## License
+
+PayBon's original code and documentation are available under the [MIT License](LICENSE), allowing commercial use, modification and redistribution while retaining the license notice. Bundled third-party assets are subject to separate rights; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
