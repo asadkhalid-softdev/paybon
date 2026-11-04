@@ -69,7 +69,7 @@
     const inStoreOnly=state.status==='ready'&&state.coupons?.length&&state.coupons.every(c=>c.acceptanceType==='offline');
     scroll.append(element('div','Your coupon scout','eyebrow'),element('h1',empty?'No coupons found for this store':'Discover your PAYBACK offers'));
     scroll.append(element('p',empty?'You can refresh this check or view offers directly on PAYBACK.':inStoreOnly?'These coupons are for shopping in store. Activate the offers and check their conditions on PAYBACK.':'Activate a coupon, then use Online einlösen when available to start shopping through PAYBACK.','intro'));
-    const paybackLink=element('a','Open PAYBACK ↗','payback-link');paybackLink.href='https://www.payback.de/';paybackLink.target='_blank';paybackLink.rel='noopener noreferrer';paybackLink.setAttribute('aria-label','Open PAYBACK in a new tab');scroll.append(paybackLink);
+    const paybackLink=element('a','Open PAYBACK ↗','payback-link');paybackLink.href='https://www.payback.de/coupons';paybackLink.target='_blank';paybackLink.rel='noopener noreferrer';paybackLink.setAttribute('aria-label','Open PAYBACK coupons in a new tab');scroll.append(paybackLink);
     for(const job of state.autoJobs||[]){
       const notice=element('div',null,'auto-progress');notice.setAttribute('role','status');
       notice.append(element('strong',job.status==='running'?`Auto-Aktivierung · ${job.store.name}`:job.status==='complete'?`Auto-Aktivierung complete · ${job.store.name}`:`Auto-Aktivierung paused · ${job.store.name}`));
