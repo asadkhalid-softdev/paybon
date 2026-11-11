@@ -33,6 +33,20 @@ test('anonymous PAYBACK Next.js login redirects are recognized without executing
  assert.equal(C.parseDocument(new JSDOM('<meta http-equiv="refresh" content="1;url=https://evil.org/login">').window.document).status,'error');
 });
 
+test('current signed-in coupon pages do not require the removed logout link',()=>{
+ const records=JSON.parse(fs.readFileSync('tests/fixtures/multi-store-coupons.json','utf8'));
+ const flight='<script>self.__next_f.push('+JSON.stringify([1,'1:'+JSON.stringify({coupons:records})])+')</script>';
+ const markup=fs.readFileSync('tests/fixtures/coupons.html','utf8');
+ const parse=(html,partner)=>{const d=new JSDOM(html);try{return C.parseDocument(d.window.document,partner);}finally{d.window.close();}};
+ const dm=parse(flight,'lp54');assert.equal(dm.status,'ready');assert.equal(dm.coupons.length,records.filter(c=>c.partnerShortName==='lp54').length);
+ assert(dm.coupons.some(c=>c.status==='activated'));assert(dm.coupons.some(c=>c.status==='not_activated'));
+ assert.equal(parse(markup,'lp717463').coupons.length,9);
+ const empty=parse('<div data-testid="not-activated-coupons-section"></div><div data-testid="activated-coupons-section"></div>','lp54');assert.equal(empty.status,'ready');assert.equal(empty.coupons.length,0);
+ assert.equal(parse('<div data-testid="coupons-partner-filter-select"></div>','lp54').status,'error');
+ assert.equal(parse('<h1>Access denied</h1>','lp54').status,'error');
+ assert.equal(parse('<meta http-equiv="refresh" content="1;url=/login">'+flight,'lp54').status,'login');
+});
+
 test('representative multi-store data filters active/inactive coupons by partner ID, including dm IDs',()=>{
  const records=JSON.parse(fs.readFileSync('tests/fixtures/multi-store-coupons.json','utf8'));
  const flight='1:'+JSON.stringify({coupons:records});

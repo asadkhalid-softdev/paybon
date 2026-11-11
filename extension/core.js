@@ -65,7 +65,11 @@
     });
     const login=loginRedirect || !!doc.querySelector('a[href*="/login"],form[action*="login"]') || /Bitte (?:einloggen|anmelden)|Jetzt einloggen/i.test(doc.body?.textContent || '');
     const hasSections=!!doc.querySelector('[data-testid="not-activated-coupons-section"], [data-testid="activated-coupons-section"], [data-testid="coupons-partner-filter-select"]');
-    const status=loggedIn ? (coupons.size || hasSections ? 'ready' : 'error') : login ? 'login' : 'error';
+    // PAYBACK's current header no longer renders a logout link. Valid coupons or
+    // its paired coupon sections also identify a readable account coupon page.
+    const couponSections=!!doc.querySelector('[data-testid="not-activated-coupons-section"]')&&!!doc.querySelector('[data-testid="activated-coupons-section"]');
+    const readable=coupons.size>0 || couponSections || (loggedIn&&hasSections);
+    const status=loginRedirect?'login':readable?'ready':login?'login':'error';
     return {status,coupons:status==='ready'?sort([...coupons.values()]):[],checkedAt:Date.now()};
   }
   const api={SUFFIXES,PAYBACK_URL,couponUrl,domain,storesForHost,httpsUrl,amazonHost,checkpoint,tracked,normalize,sort,objects,parseDocument};
